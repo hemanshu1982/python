@@ -1,7 +1,1 @@
-# python training
-
-# testing git push
-
-# retest
-
-# retest again
+# The repository contains the files created during Python training
