@@ -1,1 +1,1 @@
-# The repository contains the files created during Python training
+# The repository contains the files created during Python training.
